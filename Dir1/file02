@@ -1,2 +1,7 @@
 this file02 is added through gVim
+<<<<<<< HEAD
 can I commit this through gVim fugitive?
+=======
+another change from nayad.
+2nd change from nayad
+>>>>>>> 4c97d7e6462e5e3a73bde001ef7071bf50139d48
